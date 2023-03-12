@@ -13,6 +13,22 @@ body {
   background-color: #4ecdc4;
 }
 
+button {
+	display: inline-block;
+	font-family: Monserrat, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+	padding: 10px 30px;
+	position: absolute;
+	cursor: pointer;
+	border: none;
+	background: #b10000;
+	border-radius: 5px;
+  margin-left: 500px;
+}
+
 .container {
   width: 30rem;
   margin-left: auto;
